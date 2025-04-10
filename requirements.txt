@@ -1,7 +1,7 @@
 numpy
 torch
 torchvision
-git+https://github.com/mattloper/chumpy.git
+chumpy @ git+https://github.com/mattloper/chumpy.git
 pyrender
 trimesh
 smplx
