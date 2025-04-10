@@ -1,7 +1,7 @@
 numpy
 torch
 torchvision
-chumpy==0.70
+git+https://github.com/mattloper/chumpy
 pyrender
 trimesh
 smplx
